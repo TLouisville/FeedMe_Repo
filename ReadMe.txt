@@ -1,0 +1,1 @@
+Simply import the FeedMeGit project into Android Studion and begin editing.

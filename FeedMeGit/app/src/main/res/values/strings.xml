@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FeedMeGit</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LogoDescription">FeedMe Logo with plate</string>
+    <string name="Splash_BottomText">Processes of Object Oriented Software 2015</string>
+    <string name="title_activity_blank_temp">BlankTempActivity</string>
 </resources>
